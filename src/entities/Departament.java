@@ -8,7 +8,7 @@ public class Departament {
 	}
 
 	public Departament(String name) {
-
+		this.name = name;
 	}
 
 	public String getName() {
